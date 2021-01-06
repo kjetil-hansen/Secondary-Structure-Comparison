@@ -1,0 +1,21 @@
+,Organism,Protein Name,Sequence Length,Helix,Beta-Strand,Unstructured
+0,human,Uncharacterized protein DNAH10OS,163,0.0,0.0,100.0
+1,human,Transcription regulator protein BACH2,841,6.064209274673008,2.972651605231867,90.96313912009512
+2,human,Protein sprouty homolog 3,288,0.0,0.0,100.0
+3,human,Complement C3,1663,21.04630186410102,41.85207456404089,37.10162357185809
+4,human,Homeobox protein PKNOX1,436,9.403669724770642,0.0,90.59633027522935
+5,human,Membrane progestin receptor beta,354,0.0,0.0,100.0
+6,human,Metallophosphoesterase 1,396,0.0,0.0,100.0
+7,human,Patatin-like phospholipase domain-containing protein 4,253,0.0,0.0,100.0
+8,human,Zinc finger protein 133,654,0.0,0.0,100.0
+9,human,G antigen 2B/2C,116,0.0,0.0,100.0
+10,ecoli,Putative truncated flagellar export/assembly protein LfhA,579,0.0,0.0,100.0
+11,ecoli,Amino-acid acetyltransferase,443,0.0,0.0,100.0
+12,ecoli,Integration host factor subunit beta,94,40.42553191489361,31.914893617021278,27.659574468085108
+13,ecoli,Methionine synthase,1227,22.41238793806031,8.557457212713937,69.03015484922575
+14,ecoli,Ribosomal protein S12 methylthiotransferase RimO,441,0.0,0.0,100.0
+15,ecoli,Citrate lyase acyl carrier protein,98,0.0,0.0,100.0
+16,ecoli,Flavodoxin 1,176,34.659090909090914,22.727272727272727,42.61363636363637
+17,ecoli,NADH-quinone oxidoreductase subunit E,166,0.0,0.0,100.0
+18,ecoli,Putative colanic acid biosynthesis glycosyl transferase WcaE,248,0.0,0.0,100.0
+19,ecoli,Endoribonuclease YbeY,155,43.87096774193549,22.58064516129032,33.5483870967742
