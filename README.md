@@ -30,6 +30,6 @@ A file containing all proteins and associated secondary structure percentages is
 
 An example of the output is shown below:
 
-![Example of tabulated data](link)
+![Example of tabulated data](https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/SSOutput.csv)
 
-![Example of stacked bar chart](link)
+![Example of stacked bar chart](https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/Outputbar.png)
