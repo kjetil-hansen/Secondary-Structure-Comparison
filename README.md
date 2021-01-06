@@ -29,8 +29,6 @@ python<version> SStructure_Comparison -r 10
 A file containing all proteins and associated secondary structure percentages is saved as a .csv file. The bar chart is saved as a .png.
 
 An example of the output is shown below:
-<img src="https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/SSOutput.png" width="100" height="100"
-
-![Example of tabulated data](https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/SSOutput.png =250x250)
+<img src="https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/SSOutput.png" width="100" height="100">
 
 ![Example of stacked bar chart](https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/OutputBar.png)
