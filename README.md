@@ -32,4 +32,4 @@ An example of the output is shown below:
 
 ![Example of tabulated data](https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/SSOutput.csv)
 
-![Example of stacked bar chart](https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/Outputbar.png)
+![Example of stacked bar chart](https://github.com/kjetil-hansen/Secondary-Structure-Comparison/blob/master/Output/OutputBar.png)
