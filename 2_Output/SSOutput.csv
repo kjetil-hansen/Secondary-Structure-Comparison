@@ -1,0 +1,11 @@
+Organism,Protein Name,Sequence Length,Helix,Beta-Strand,Unstructured
+human,Hemoglobin subunit delta,147,75.51020408163265,0.0,24.489795918367346
+human,cAMP-regulated phosphoprotein 21,812,0.0,0.0,100.0
+human,Protein mono-ADP-ribosyltransferase PARP6,630,0.0,0.0,100.0
+human,Cyclic AMP-dependent transcription factor ATF-1,271,0.0,0.0,100.0
+human,Krueppel-like factor 12,402,0.0,0.0,100.0
+ecoli,Protein YtiC,33,0.0,0.0,100.0
+ecoli,Protein YhgF,773,0.0,0.0,100.0
+ecoli,DNA topoisomerase 3,653,43.03215926493109,17.611026033690656,39.356814701378255
+ecoli,UDP-galactopyranose mutase,367,34.87738419618528,26.70299727520436,38.41961852861036
+ecoli,Uncharacterized protein YibL,120,0.0,0.0,100.0

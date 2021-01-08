@@ -2,7 +2,7 @@
 
 *last updated by KJ Hansen on 06/01/2020*
 
-This python-based script compares the secondary structure prevalence between two organisms (*E. coli* and human by default). The script accesses the Swissprot database through the Uniprot API to fetch *n* number of random *E. coli* and human proteins. The Uniprot XML schema is used to read in the secondary structure features for each protein. This information is tabulated and statistics for alpha helices, beta strands and unstructured regions calculated. The results are displayed as a stacked bar chart.
+This python-based script compares the secondary structure prevalence between two organisms (*E. coli* and human by default). The script accesses the Swissprot database through the UniProt API to fetch *n* number of random *E. coli* and human proteins. The Uniprot XML schema is used to read in the secondary structure features for each protein. This information is tabulated and statistics for alpha helices, beta strands and unstructured regions calculated. The results are displayed as a stacked bar chart.
 
 This script utilises:
 
